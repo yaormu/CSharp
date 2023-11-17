@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\bin\Debug\net8.0\ConceptosBase.exe
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\bin\Debug\net8.0\ConceptosBase.deps.json
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\bin\Debug\net8.0\ConceptosBase.runtimeconfig.json
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\bin\Debug\net8.0\ConceptosBase.dll
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\bin\Debug\net8.0\ConceptosBase.pdb
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.sourcelink.json
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.dll
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\refint\ConceptosBase.dll
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.pdb
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ConceptosBase.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Ebooks\CSharp\Fundamentos_C#_hdl\ConceptosBase\ConceptosBase\obj\Debug\net8.0\ref\ConceptosBase.dll

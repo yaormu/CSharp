@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConceptosBase/1.0.0": {
+        "runtime": {
+          "ConceptosBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceptosBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
